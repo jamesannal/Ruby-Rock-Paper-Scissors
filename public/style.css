@@ -1,0 +1,13 @@
+body {
+  background-color: cyan;
+}
+
+h1 {
+  color: brown;
+  text-align: center;
+}
+
+p {
+  color: brown;
+  text-align: justify;
+}
